@@ -1,0 +1,27 @@
+.music-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.music-box {
+    background-color: #282828; 
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    width: 400px; 
+}
+
+.music-box p {
+    color: #FFFFFF; 
+    font-size: 24px; 
+    margin-bottom: 20px;
+}
+
+audio {
+    width: 100%;
+    margin-bottom: 10px;
+}
+

@@ -1,0 +1,25 @@
+.vd-c{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.vd-w{
+    display: inline-block;
+    position: relative;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+video {
+    max-width: 100%;
+    display: block;
+}
+
+.jdl-v{
+    text-transform: uppercase;
+    font-size: 24px; 
+    font-weight: bold; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
